@@ -1,0 +1,9 @@
+export { Header } from "./Header";
+export { Hero } from "./Hero";
+export { Terminal } from "./Terminal";
+export { Services } from "./Services";
+export { TechStack } from "./TechStack";
+export { CaseStudy } from "./CaseStudy";
+export { Contact } from "./Contact";
+export { Footer } from "./Footer";
+export { Providers } from "./Providers";
