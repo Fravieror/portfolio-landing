@@ -12,7 +12,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <p className="font-semibold text-lg">
-              <span className="text-accent-blue">Agent</span>Builder
+              <span className="text-accent-blue">Flows</span>Gent
             </p>
             <p className="text-sm text-muted-foreground mt-1">
               {t("footer.tagline")}

@@ -24,7 +24,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="font-bold text-xl">
-            <span className="text-accent-blue">Agent</span>Builder
+            <span className="text-accent-blue">Flows</span>Gent
           </a>
 
           {/* Desktop Navigation */}
