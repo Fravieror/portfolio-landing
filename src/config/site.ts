@@ -9,7 +9,7 @@ export const siteConfig = {
   calendarUrl: "https://cal.com/francisco-egklnx/30min",
   
   // Your contact email
-  email: "lfravierl@gmail.com",
+  email: "",
   
   // Social links (update with your profiles)
   social: {
