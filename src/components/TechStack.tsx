@@ -5,6 +5,7 @@ import { useLanguage } from "@/context/LanguageContext";
 const technologies = [
   { name: "Python", icon: "🐍" },
   { name: "LangChain", icon: "🦜" },
+  { name: "LangGraph", icon: "🔗" },
   { name: "OpenAI", icon: "🤖" },
   { name: "CrewAI", icon: "👥" },
   { name: "Pinecone", icon: "🌲" },

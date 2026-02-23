@@ -8,6 +8,7 @@ const terminalLines = [
   { text: "", type: "empty" },
   { text: "from crewai import Agent, Task, Crew", type: "code" },
   { text: "from langchain_openai import ChatOpenAI", type: "code" },
+  { text: "from langgraph.graph import StateGraph", type: "code" },
   { text: "", type: "empty" },
   { text: "# Initialize the LLM", type: "comment" },
   { text: 'llm = ChatOpenAI(model="gpt-4-turbo")', type: "code" },

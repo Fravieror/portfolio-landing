@@ -24,7 +24,7 @@ const translations = {
     "hero.title3": "That Actually",
     "hero.title4": "Do The Work.",
     "hero.subtitle":
-      "Specializing in multi-agent orchestration systems using LangChain, CrewAI, and custom agentic workflows that automate complex business processes.",
+      "Specializing in multi-agent orchestration systems using LangChain, LangGraph, CrewAI, and custom agentic workflows that automate complex business processes.",
     "hero.cta1": "Book a 15-min Audit",
     "hero.cta2": "View Services",
 
@@ -48,7 +48,7 @@ const translations = {
       "Vector databases, RAG pipelines, and production-ready LLM infrastructure using Pinecone, Weaviate, and custom solutions.",
     "services.orchestration": "Agent Orchestration",
     "services.orchestrationDesc":
-      "Design and implement complex multi-agent workflows using LangChain, CrewAI, and AutoGen frameworks.",
+      "Design and implement complex multi-agent workflows using LangChain, LangGraph, CrewAI, and AutoGen frameworks.",
     "services.performance": "Performance Optimization",
     "services.performanceDesc":
       "Optimize your existing AI workflows for speed, cost-efficiency, and reliability at scale.",
@@ -121,7 +121,7 @@ const translations = {
     "hero.title3": "Que Realmente",
     "hero.title4": "Hacen El Trabajo.",
     "hero.subtitle":
-      "Especializado en sistemas de orquestación multi-agente usando LangChain, CrewAI, y flujos de trabajo agénticos personalizados que automatizan procesos empresariales complejos.",
+      "Especializado en sistemas de orquestación multi-agente usando LangChain, LangGraph, CrewAI, y flujos de trabajo agénticos personalizados que automatizan procesos empresariales complejos.",
     "hero.cta1": "Agendar Auditoría de 15 min",
     "hero.cta2": "Ver Servicios",
 
@@ -145,7 +145,7 @@ const translations = {
       "Bases de datos vectoriales, pipelines RAG e infraestructura LLM lista para producción usando Pinecone, Weaviate y soluciones personalizadas.",
     "services.orchestration": "Orquestación de Agentes",
     "services.orchestrationDesc":
-      "Diseño e implementación de flujos de trabajo multi-agente complejos usando frameworks LangChain, CrewAI y AutoGen.",
+      "Diseño e implementación de flujos de trabajo multi-agente complejos usando frameworks LangChain, LangGraph, CrewAI y AutoGen.",
     "services.performance": "Optimización de Rendimiento",
     "services.performanceDesc":
       "Optimiza tus flujos de trabajo IA existentes para velocidad, eficiencia de costos y confiabilidad a escala.",

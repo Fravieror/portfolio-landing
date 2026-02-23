@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Software Engineer & Agentic Workflow Builder",
-  description: "I build AI agents that actually do the work. Expert in multi-agent systems, LangChain, and CrewAI for workflow automation.",
-  keywords: ["AI Agents", "LangChain", "CrewAI", "Multi-Agent Systems", "Workflow Automation", "LLM", "RAG"],
+  description: "I build AI agents that actually do the work. Expert in multi-agent systems, LangChain, LangGraph, and CrewAI for workflow automation.",
+  keywords: ["AI Agents", "LangChain", "LangGraph", "CrewAI", "Multi-Agent Systems", "Workflow Automation", "LLM", "RAG"],
 };
 
 export default function RootLayout({
