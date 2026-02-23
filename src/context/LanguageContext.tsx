@@ -122,7 +122,7 @@ const translations = {
     "hero.title4": "Hacen El Trabajo.",
     "hero.subtitle":
       "Especializado en sistemas de orquestación multi-agente usando LangChain, LangGraph, CrewAI, y flujos de trabajo agénticos personalizados que automatizan procesos empresariales complejos.",
-    "hero.cta1": "Agendar Auditoría de 15 min",
+    "hero.cta1": "Agendar Auditoría de 30 min",
     "hero.cta2": "Ver Servicios",
 
     // Tech Stack
@@ -186,8 +186,8 @@ const translations = {
     "contact.titleHighlight": "Automatizar",
     "contact.titleEnd": "Tus Flujos de Trabajo?",
     "contact.subtitle":
-      "Agenda una llamada gratuita de auditoría de 15 minutos. Analizaré tus procesos actuales y te mostraré exactamente dónde los agentes IA pueden tener el mayor impacto.",
-    "contact.bookAudit": "Agendar Auditoría de 15 min",
+      "Agenda una llamada gratuita de auditoría de 30 minutos. Analizaré tus procesos actuales y te mostraré exactamente dónde los agentes IA pueden tener el mayor impacto.",
+    "contact.bookAudit": "Agendar Auditoría de 30 min",
     "contact.reachOut": "O contáctame directamente:",
     "contact.sendMessage": "Enviar un Mensaje",
     "contact.thanks": "¡Gracias por contactarme!",
