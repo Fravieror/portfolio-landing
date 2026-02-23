@@ -25,7 +25,7 @@ const translations = {
     "hero.title4": "Do The Work.",
     "hero.subtitle":
       "Specializing in multi-agent orchestration systems using LangChain, LangGraph, CrewAI, and custom agentic workflows that automate complex business processes.",
-    "hero.cta1": "Book a 15-min Audit",
+    "hero.cta1": "Book a 30-min Audit",
     "hero.cta2": "View Services",
 
     // Tech Stack
@@ -89,8 +89,8 @@ const translations = {
     "contact.titleHighlight": "Automate",
     "contact.titleEnd": "Your Workflows?",
     "contact.subtitle":
-      "Book a free 15-minute workflow audit call. I'll analyze your current processes and show you exactly where AI agents can make the biggest impact.",
-    "contact.bookAudit": "Book a 15-min Workflow Audit",
+      "Book a free 30-minute workflow audit call. I'll analyze your current processes and show you exactly where AI agents can make the biggest impact.",
+    "contact.bookAudit": "Book a 30-min Workflow Audit",
     "contact.reachOut": "Or reach out directly:",
     "contact.sendMessage": "Send a Message",
     "contact.thanks": "Thanks for reaching out!",
